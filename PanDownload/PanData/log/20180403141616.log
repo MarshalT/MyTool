@@ -1,8 +1,0 @@
-2018-04-03 14:16:16 [INFO] version: 1.5.4
-2018-04-03 14:16:16 [INFO] instance path: E:\工具\PanDownload\
-2018-04-03 14:16:16 [INFO] create main window
-2018-04-03 14:16:16 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6801/jsonrpc
-2018-04-03 14:16:16 [INFO] ip info: 中国广东珠海电信
-2018-04-03 14:16:30 [ERROR] check login failed: [data:1] [cookie:86]
-2018-04-03 14:16:32 [INFO] close main window
-2018-04-03 14:16:32 [INFO] exit
