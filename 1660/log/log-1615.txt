@@ -1,0 +1,1777 @@
+
+2018-05-04 17:08:09:D:\工具\MyTool\1660\Fish.exe-3.2.3-0403
+17:08:10:LoadUrlFile can't open url file. cUrlFile:D:\工具\MyTool\1660\kini\tkbatch.ini
+17:08:13:AddExportPDFTask. size = 0, m_nExportTask = 0.
+17:08:14:ToAddBatchTasks nSize = 0
+17:08:14:AddBatchTasks batch task is done. nSize is zero
+17:08:16:end
+
+2018-05-11 09:07:51:D:\工具\MyTool\1660\Fish.exe-3.2.3-0403
+09:07:52:LoadUrlFile can't open url file. cUrlFile:D:\工具\MyTool\1660\kini\tkbatch.ini
+09:07:55:DownloadFile taskid = 4, nThreadId = 1, nIndex = 0, url = https://wenku.baidu.com/view/d4217a62af1ffc4ffe47ac27.html
+09:07:55:DownloadFileCallBack url= https://wenku.baidu.com/view/d4217a62af1ffc4ffe47ac27.html, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\d4217a62af1ffc4ffe47ac27.html, nUncompress = 0
+09:07:55:AddExportPDFTask. size = 1, m_nExportTask = 0.
+09:07:55:AddExportPDFTask. i:0, status:101,downloadstatus:2,ListItem:0,https://wenku.baidu.com/view/d4217a62af1ffc4ffe47ac27.html
+09:07:55:in AddExportPDFTask. i equal size. i = 1.
+09:07:55:status = 200, uTaskId = 4
+09:07:55:download begin, uTaskId = 4, content-length = 
+09:07:55:download close. nRecvLen = 32019, nReadLen = 0, uTaskId = 4
+09:07:56:encoding is gzip. uTaskId = 4, sSavePath:D:\工具\MyTool\1660\kdocin\d4217a62af1ffc4ffe47ac27.html
+09:07:56:DownloadFile taskid = 4, nThreadId = 2, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=0-463&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z
+09:07:56:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=0-463&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b9DA77561651351DA9D2FED4A4F7CF323_json, nUncompress = 0
+09:07:56:ToAddBatchTasks nSize = 0
+09:07:56:AddBatchTasks batch task is done. nSize is zero
+09:07:56:status = 206, uTaskId = 4
+09:07:56:download begin, uTaskId = 4, content-length = 464
+09:07:56:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 4
+09:07:56:OnMessageEvent task is not existed. message: 4, 13, 4, 0
+09:07:56:UpdateTaskStatus. status:-1, url:https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=0-463&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z, m_sSavePath:D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_1.dat
+09:07:56:DownloadFile taskid = 4, nThreadId = 3, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=0-463&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z
+09:07:56:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=0-463&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_1.dat, nUncompress = 0
+09:07:56:status = 206, uTaskId = 4
+09:07:56:download begin, uTaskId = 4, content-length = 464
+09:07:56:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 4
+09:07:56:DownloadFile taskid = 4, nThreadId = 4, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=464-927&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z
+09:07:56:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=464-927&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_2.dat, nUncompress = 0
+09:07:56:status = 206, uTaskId = 4
+09:07:56:download begin, uTaskId = 4, content-length = 464
+09:07:56:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 4
+09:07:57:DownloadFile taskid = 4, nThreadId = 5, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=928-1391&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z
+09:07:57:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=928-1391&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_3.dat, nUncompress = 0
+09:07:57:status = 206, uTaskId = 4
+09:07:57:download begin, uTaskId = 4, content-length = 464
+09:07:57:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 4
+09:07:57:DownloadFile taskid = 4, nThreadId = 6, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=1392-1855&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z
+09:07:57:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=1392-1855&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_4.dat, nUncompress = 0
+09:07:57:status = 206, uTaskId = 4
+09:07:57:download begin, uTaskId = 4, content-length = 464
+09:07:57:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 4
+09:07:57:DownloadFile taskid = 4, nThreadId = 7, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=1856-2319&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z
+09:07:57:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=1856-2319&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_5.dat, nUncompress = 0
+09:07:57:status = 206, uTaskId = 4
+09:07:57:download begin, uTaskId = 4, content-length = 464
+09:07:57:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 4
+09:07:57:DownloadFile taskid = 4, nThreadId = 8, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=2320-2783&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z
+09:07:57:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=2320-2783&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_6.dat, nUncompress = 0
+09:07:57:status = 206, uTaskId = 4
+09:07:57:download begin, uTaskId = 4, content-length = 464
+09:07:57:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 4
+09:07:57:DownloadFile taskid = 4, nThreadId = 9, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=2784-3247&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z
+09:07:57:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=2784-3247&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_7.dat, nUncompress = 0
+09:07:57:status = 206, uTaskId = 4
+09:07:57:download begin, uTaskId = 4, content-length = 464
+09:07:57:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 4
+09:07:57:DownloadFile taskid = 4, nThreadId = 10, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=3248-3711&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z
+09:07:57:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=3248-3711&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_8.dat, nUncompress = 0
+09:07:57:status = 206, uTaskId = 4
+09:07:57:download begin, uTaskId = 4, content-length = 464
+09:07:57:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 4
+09:07:57:DownloadFile taskid = 4, nThreadId = 11, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=3712-&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z
+09:07:57:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2Fba5c0c68337e85c4d4d87b3bddb1f1a79114cf6622ced3b8182a06ad0da35946&x-bce-range=3712-&token=081a9d3af86ad5b94808040ceebaf535c6c125327cd3a8788148a6076293f663&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_9.dat, nUncompress = 0
+09:07:58:status = 206, uTaskId = 4
+09:07:58:download begin, uTaskId = 4, content-length = 464
+09:07:58:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 4
+09:07:58:DownloadFile taskid = 4, nThreadId = 12, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2F37349bfd69d91d7d415b625d066e4d696442ac9b358115921978a785a2298b18&x-bce-range=0-40435&token=c02aaaeb4f29cb17fba2e2d98fa023258c765685a759f66405bbccf77134b152&expire=2018-05-11T02:07:54Z
+09:07:58:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2F37349bfd69d91d7d415b625d066e4d696442ac9b358115921978a785a2298b18&x-bce-range=0-40435&token=c02aaaeb4f29cb17fba2e2d98fa023258c765685a759f66405bbccf77134b152&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_10.dat, nUncompress = 0
+09:07:58:status = 206, uTaskId = 4
+09:07:58:download begin, uTaskId = 4, content-length = 40436
+09:07:58:download close. nRecvLen = 40436, nReadLen = 0, uTaskId = 4
+09:07:58:DownloadFile taskid = 4, nThreadId = 13, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2F37349bfd69d91d7d415b625d066e4d696442ac9b358115921978a785a2298b18&x-bce-range=40436-93097&token=c02aaaeb4f29cb17fba2e2d98fa023258c765685a759f66405bbccf77134b152&expire=2018-05-11T02:07:54Z
+09:07:58:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2F37349bfd69d91d7d415b625d066e4d696442ac9b358115921978a785a2298b18&x-bce-range=40436-93097&token=c02aaaeb4f29cb17fba2e2d98fa023258c765685a759f66405bbccf77134b152&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_11.dat, nUncompress = 0
+09:07:58:status = 206, uTaskId = 4
+09:07:58:download begin, uTaskId = 4, content-length = 52662
+09:07:58:download close. nRecvLen = 52662, nReadLen = 0, uTaskId = 4
+09:07:58:AddExportPDFTask. size = 1, m_nExportTask = 0.
+09:07:58:AddExportPDFTask. i:0, status:107,downloadstatus:2,ListItem:0,EmguCV入门指南-中文翻译版
+09:07:58:in AddExportPDFTask. i equal size. i = 1.
+09:07:58:DownloadFile taskid = 4, nThreadId = 14, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2F37349bfd69d91d7d415b625d066e4d696442ac9b358115921978a785a2298b18&x-bce-range=93098-174994&token=c02aaaeb4f29cb17fba2e2d98fa023258c765685a759f66405bbccf77134b152&expire=2018-05-11T02:07:54Z
+09:07:58:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2F37349bfd69d91d7d415b625d066e4d696442ac9b358115921978a785a2298b18&x-bce-range=93098-174994&token=c02aaaeb4f29cb17fba2e2d98fa023258c765685a759f66405bbccf77134b152&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_12.dat, nUncompress = 0
+09:07:58:status = 206, uTaskId = 4
+09:07:58:download begin, uTaskId = 4, content-length = 81897
+09:07:58:download close. nRecvLen = 81897, nReadLen = 0, uTaskId = 4
+09:07:58:DownloadFile taskid = 4, nThreadId = 15, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2F37349bfd69d91d7d415b625d066e4d696442ac9b358115921978a785a2298b18&x-bce-range=174995-245750&token=c02aaaeb4f29cb17fba2e2d98fa023258c765685a759f66405bbccf77134b152&expire=2018-05-11T02:07:54Z
+09:07:58:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2F37349bfd69d91d7d415b625d066e4d696442ac9b358115921978a785a2298b18&x-bce-range=174995-245750&token=c02aaaeb4f29cb17fba2e2d98fa023258c765685a759f66405bbccf77134b152&expire=2018-05-11T02:07:54Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_13.dat, nUncompress = 0
+09:08:01:AddExportPDFTask. size = 1, m_nExportTask = 0.
+09:08:01:AddExportPDFTask. i:0, status:107,downloadstatus:2,ListItem:0,EmguCV入门指南-中文翻译版
+09:08:01:in AddExportPDFTask. i equal size. i = 1.
+09:08:04:AddExportPDFTask. size = 1, m_nExportTask = 0.
+09:08:04:AddExportPDFTask. i:0, status:107,downloadstatus:2,ListItem:0,EmguCV入门指南-中文翻译版
+09:08:04:in AddExportPDFTask. i equal size. i = 1.
+09:08:06:download internet exception error = 0, cause = 操作超时
+, uTaskId = 4
+09:08:06:DownloadFailed uTaskId:4, uCauseCode:8, status:107, retry:0, url:https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2F37349bfd69d91d7d415b625d066e4d696442ac9b358115921978a785a2298b18&x-bce-range=174995-245750&token=c02aaaeb4f29cb17fba2e2d98fa023258c765685a759f66405bbccf77134b152&expire=2018-05-11T02:07:54Z
+09:08:06:DownloadFailed. xx url is set from https to http. sUrl:https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2F37349bfd69d91d7d415b625d066e4d696442ac9b358115921978a785a2298b18&x-bce-range=174995-245750&token=c02aaaeb4f29cb17fba2e2d98fa023258c765685a759f66405bbccf77134b152&expire=2018-05-11T02:07:54Z, downloadurl:http://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A07%3A54%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A07%3A54Z%2F3600%2Fhost%2F37349bfd69d91d7d415b625d066e4d696442ac9b358115921978a785a2298b18&x-bce-range=174995-245750&token=c02aaaeb4f29cb17fba2e2d98fa023258c765685a759f66405bbccf77134b152&expire=2$湎
+09:08:11:end
+
+2018-05-11 09:08:14:D:\工具\MyTool\1660\Fish.exe-3.2.3-0403
+09:08:14:LoadUrlFile can't open url file. cUrlFile:D:\工具\MyTool\1660\kini\tkbatch.ini
+09:08:17:AddExportPDFTask. size = 1, m_nExportTask = 0.
+09:08:17:AddExportPDFTask. i:0, status:107,downloadstatus:1,ListItem:0,EmguCV入门指南-中文翻译版
+09:08:17:in AddExportPDFTask. i equal size. i = 1.
+09:08:18:ToAddBatchTasks nSize = 0
+09:08:18:AddBatchTasks batch task is done. nSize is zero
+09:08:20:AddExportPDFTask. size = 1, m_nExportTask = 0.
+09:08:20:AddExportPDFTask. i:0, status:107,downloadstatus:1,ListItem:0,EmguCV入门指南-中文翻译版
+09:08:20:in AddExportPDFTask. i equal size. i = 1.
+09:08:20:OnRClickListMenu nID:38202
+09:08:20:KillTaskThreadSync thread is killed. uTaskId = 1, taskstatus = 107, url = https://wenku.baidu.com/view/d4217a62af1ffc4ffe47ac27.html.
+09:08:20:OnMessageEvent task is not existed. message: 1, 35, 1, 0
+09:08:20:DownloadFile taskid = 1, nThreadId = 1, nIndex = 0, url = https://wenku.baidu.com/view/d4217a62af1ffc4ffe47ac27.html
+09:08:20:DownloadFileCallBack url= https://wenku.baidu.com/view/d4217a62af1ffc4ffe47ac27.html, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\d4217a62af1ffc4ffe47ac27.html, nUncompress = 0
+09:08:21:status = 200, uTaskId = 1
+09:08:21:download begin, uTaskId = 1, content-length = 
+09:08:21:download close. nRecvLen = 32013, nReadLen = 0, uTaskId = 1
+09:08:21:encoding is gzip. uTaskId = 1, sSavePath:D:\工具\MyTool\1660\kdocin\d4217a62af1ffc4ffe47ac27.html
+09:08:22:DownloadFile taskid = 1, nThreadId = 2, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=0-463&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z
+09:08:22:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=0-463&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b9DA77561651351DA9D2FED4A4F7CF323_json, nUncompress = 0
+09:08:22:status = 206, uTaskId = 1
+09:08:22:download begin, uTaskId = 1, content-length = 464
+09:08:22:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 1
+09:08:22:OnMessageEvent task is not existed. message: 1, 13, 1, 0
+09:08:22:UpdateTaskStatus. status:-1, url:https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=0-463&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z, m_sSavePath:D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_1.dat
+09:08:22:DownloadFile taskid = 1, nThreadId = 3, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=0-463&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z
+09:08:22:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=0-463&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_1.dat, nUncompress = 0
+09:08:22:status = 206, uTaskId = 1
+09:08:22:download begin, uTaskId = 1, content-length = 464
+09:08:22:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 1
+09:08:22:DownloadFile taskid = 1, nThreadId = 4, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=464-927&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z
+09:08:22:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=464-927&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_2.dat, nUncompress = 0
+09:08:22:status = 206, uTaskId = 1
+09:08:22:download begin, uTaskId = 1, content-length = 464
+09:08:22:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 1
+09:08:22:DownloadFile taskid = 1, nThreadId = 5, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=928-1391&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z
+09:08:22:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=928-1391&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_3.dat, nUncompress = 0
+09:08:22:status = 206, uTaskId = 1
+09:08:22:download begin, uTaskId = 1, content-length = 464
+09:08:22:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 1
+09:08:22:DownloadFile taskid = 1, nThreadId = 6, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=1392-1855&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z
+09:08:22:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=1392-1855&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_4.dat, nUncompress = 0
+09:08:22:status = 206, uTaskId = 1
+09:08:22:download begin, uTaskId = 1, content-length = 464
+09:08:22:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 1
+09:08:22:DownloadFile taskid = 1, nThreadId = 7, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=1856-2319&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z
+09:08:22:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=1856-2319&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_5.dat, nUncompress = 0
+09:08:22:status = 206, uTaskId = 1
+09:08:22:download begin, uTaskId = 1, content-length = 464
+09:08:22:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 1
+09:08:23:DownloadFile taskid = 1, nThreadId = 8, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=2320-2783&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z
+09:08:23:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=2320-2783&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_6.dat, nUncompress = 0
+09:08:23:status = 206, uTaskId = 1
+09:08:23:download begin, uTaskId = 1, content-length = 464
+09:08:23:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 1
+09:08:23:DownloadFile taskid = 1, nThreadId = 9, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=2784-3247&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z
+09:08:23:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=2784-3247&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_7.dat, nUncompress = 0
+09:08:23:status = 206, uTaskId = 1
+09:08:23:download begin, uTaskId = 1, content-length = 464
+09:08:23:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 1
+09:08:23:DownloadFile taskid = 1, nThreadId = 10, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=3248-3711&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z
+09:08:23:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=3248-3711&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_8.dat, nUncompress = 0
+09:08:23:status = 206, uTaskId = 1
+09:08:23:download begin, uTaskId = 1, content-length = 464
+09:08:23:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 1
+09:08:23:DownloadFile taskid = 1, nThreadId = 11, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=3712-&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z
+09:08:23:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2F2bb46a7952ad9dbca7b6716d4c52389e0374e786f52c7b4b0386443ca1a5f69a&x-bce-range=3712-&token=41d5f201436d5ca3ee29d08cb460f0a03f03752957dc787dd5f68a541686da42&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_9.dat, nUncompress = 0
+09:08:23:status = 206, uTaskId = 1
+09:08:23:download begin, uTaskId = 1, content-length = 464
+09:08:23:download close. nRecvLen = 464, nReadLen = 0, uTaskId = 1
+09:08:23:DownloadFile taskid = 1, nThreadId = 12, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=0-40435&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z
+09:08:23:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=0-40435&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_10.dat, nUncompress = 0
+09:08:23:status = 206, uTaskId = 1
+09:08:23:download begin, uTaskId = 1, content-length = 40436
+09:08:23:download close. nRecvLen = 40436, nReadLen = 0, uTaskId = 1
+09:08:23:DownloadFile taskid = 1, nThreadId = 13, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=40436-93097&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z
+09:08:23:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=40436-93097&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_11.dat, nUncompress = 0
+09:08:23:AddExportPDFTask. size = 1, m_nExportTask = 0.
+09:08:23:AddExportPDFTask. i:0, status:107,downloadstatus:2,ListItem:0,EmguCV入门指南-中文翻译版
+09:08:23:in AddExportPDFTask. i equal size. i = 1.
+09:08:23:status = 206, uTaskId = 1
+09:08:23:download begin, uTaskId = 1, content-length = 52662
+09:08:23:download close. nRecvLen = 52662, nReadLen = 0, uTaskId = 1
+09:08:24:DownloadFile taskid = 1, nThreadId = 14, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=93098-174994&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z
+09:08:24:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=93098-174994&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_12.dat, nUncompress = 0
+09:08:24:status = 206, uTaskId = 1
+09:08:24:download begin, uTaskId = 1, content-length = 81897
+09:08:24:download close. nRecvLen = 81897, nReadLen = 0, uTaskId = 1
+09:08:24:DownloadFile taskid = 1, nThreadId = 15, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=174995-245750&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z
+09:08:24:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=174995-245750&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_13.dat, nUncompress = 0
+09:08:24:status = 206, uTaskId = 1
+09:08:24:download begin, uTaskId = 1, content-length = 70756
+09:08:24:download close. nRecvLen = 70756, nReadLen = 0, uTaskId = 1
+09:08:24:DownloadFile taskid = 1, nThreadId = 16, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=245751-353573&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z
+09:08:24:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=245751-353573&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_14.dat, nUncompress = 0
+09:08:24:status = 206, uTaskId = 1
+09:08:24:download begin, uTaskId = 1, content-length = 107823
+09:08:24:download close. nRecvLen = 107823, nReadLen = 0, uTaskId = 1
+09:08:24:DownloadFile taskid = 1, nThreadId = 17, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=353574-440837&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z
+09:08:24:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=353574-440837&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_15.dat, nUncompress = 0
+09:08:24:status = 206, uTaskId = 1
+09:08:24:download begin, uTaskId = 1, content-length = 87264
+09:08:24:download close. nRecvLen = 87264, nReadLen = 0, uTaskId = 1
+09:08:24:DownloadFile taskid = 1, nThreadId = 18, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=440838-491626&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z
+09:08:24:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=440838-491626&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_16.dat, nUncompress = 0
+09:08:24:status = 206, uTaskId = 1
+09:08:24:download begin, uTaskId = 1, content-length = 50789
+09:08:25:download close. nRecvLen = 50789, nReadLen = 0, uTaskId = 1
+09:08:25:DownloadFile taskid = 1, nThreadId = 19, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=491627-533703&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z
+09:08:25:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=491627-533703&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_17.dat, nUncompress = 0
+09:08:25:status = 206, uTaskId = 1
+09:08:25:download begin, uTaskId = 1, content-length = 42077
+09:08:25:download close. nRecvLen = 42077, nReadLen = 0, uTaskId = 1
+09:08:25:DownloadFile taskid = 1, nThreadId = 20, nIndex = 0, url = https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=533704-&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z
+09:08:25:DownloadFileCallBack url= https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=533704-&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z, uerproxy = 0, method = 3, save = D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_18.dat, nUncompress = 0
+09:08:25:status = 206, uTaskId = 1
+09:08:25:download begin, uTaskId = 1, content-length = 4599
+09:08:25:download close. nRecvLen = 4599, nReadLen = 0, uTaskId = 1
+09:08:25:UpdateTaskStatus. status:-5, url:https://wkbos.bdimg.com/v1/docconvert4898//wk/eca3873512465ed56987b752cc1a89d6/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2025%20Jun%202018%2009%3A08%3A19%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2018-05-11T01%3A08%3A19Z%2F3600%2Fhost%2Ffc8b8299e3ee03901079f0e768d7e44967c61c9b15ef1cc3a5a82dc08d9a32a2&x-bce-range=533704-&token=dfb104c35dfc2df17a09808f7e904148e759d610ed51d14d80b15fda603b9246&expire=2018-05-11T02:08:19Z, m_sSavePath:D:\工具\MyTool\1660\kdocin\b_d4217a62af1ffc4ffe47ac27_18.dat
+09:08:25:AddExportPDFTask. size = 1, m_nExportTask = 0.
+09:08:25:AddExportPDFTask. i:0, status:-5,downloadstatus:1,ListItem:0,EmguCV入门指南-中文翻译版
+09:08:25:ExportPdfFile html, taskid = 1, nThreadId = 21, nIndex = 0, m_sPdfFileName = D:\工具\MyTool\1660\kpdf\EmguCV入门指南-中文翻译版.pdf
+09:08:25:ExportPDFFromHTMLCallBack uTaskId = 1, uId = 21, uMsgId = 1376257, res = 0, m_sReaderType=html, m_sPdfFileName=D:\工具\MyTool\1660\kpdf\EmguCV入门指南-中文翻译版.pdf
+09:08:25:begin to export
+09:08:42:end to export
+09:08:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:08:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:08:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:08:53:OnRClickListMenu nID:38300
+09:08:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:08:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:08:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:09:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:10:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:11:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:12:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:13:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:14:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:15:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:16:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:17:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:18:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:19:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:20:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:21:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:22:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:23:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:24:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:25:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:26:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:27:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:28:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:29:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:30:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:31:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:32:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:33:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:34:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:35:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:36:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:37:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:38:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:39:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:40:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:41:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:42:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:43:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:44:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:45:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:46:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:47:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:48:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:49:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:50:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:51:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:52:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:53:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:54:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:55:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:56:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:57:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:58:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+09:59:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:00:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:01:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:02:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:03:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:04:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:05:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:06:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:07:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:08:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:09:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:10:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:11:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:12:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:13:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:14:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:15:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:16:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:17:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:18:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:19:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:20:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:21:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:22:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:23:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:56:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:24:59:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:02:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:05:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:08:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:11:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:14:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:17:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:20:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:23:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:26:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:29:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:32:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:35:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:38:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:41:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:50:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:53:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:25:56:end

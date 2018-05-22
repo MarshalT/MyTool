@@ -1,0 +1,34 @@
+2018-04-20 21:10:04 [INFO] version: 1.5.4
+2018-04-20 21:10:04 [INFO] instance path: D:\工具\PanDownload\
+2018-04-20 21:10:05 [INFO] create main window
+2018-04-20 21:10:05 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6801/jsonrpc
+2018-04-20 21:10:05 [INFO] ip info: 中国广东珠海电信
+2018-04-20 21:10:07 [INFO] check login succeed: uk=204770208 name=t唐唔
+2018-04-20 21:10:07 [INFO] token: 99a6c75490724764fbca8cb19ce2b178
+2018-04-20 21:10:07 [INFO] sign1: 90a5396ca7b476481d297e44312da13aa99dcb2c
+2018-04-20 21:10:07 [INFO] sign2: e1AvFXmEv%2FUG7ZA83Zj09nKMvzH%2Fe8eLaFYqaZowtEYZCX4J%2B12yMQ%3D%3D
+2018-04-20 21:10:07 [INFO] sign3: d76e889b6aafd3087ac3bd56f4d4053a
+2018-04-20 21:10:07 [INFO] timestamp: 1524229804
+2018-04-20 21:12:09 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:12:39 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:13:09 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:13:39 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:14:09 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:14:39 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:15:09 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:15:39 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:16:09 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:16:39 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:17:09 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:17:39 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:18:09 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:18:39 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:19:21 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:20:03 [ERROR] check login failed: [data:0] [cookie:635]
+2018-04-20 21:20:22 [WARN] getdlink: 
+2018-04-20 21:20:22 [WARN] [/红帽/RHEL-server-7.0-x86_64-LinuxProbe.Com.iso] [3743416320] [普通1] get link failed (-501)
+2018-04-20 21:20:22 [WARN] getdlink: 
+2018-04-20 21:20:22 [WARN] [/红帽/RHEL-server-7.0-x86_64-LinuxProbe.Com.iso] [3743416320] [普通1] get link failed (-501)
+2018-04-20 21:20:22 [WARN] getdlink: 
+2018-04-20 21:20:22 [WARN] [/红帽/RHEL-server-7.0-x86_64-LinuxProbe.Com.iso] [3743416320] [普通1] get link failed (-501)
+2018-04-20 21:27:25 [INFO] [/红帽/RHEL-server-7.0-x86_64-LinuxProbe.Com.iso] [3743416320] [普通1] [] download complete

@@ -1,0 +1,43 @@
+2018-04-09 22:57:35 [INFO] version: 1.5.4
+2018-04-09 22:57:35 [INFO] instance path: E:\工具\PanDownload\
+2018-04-09 22:57:35 [INFO] create main window
+2018-04-09 22:57:35 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6801/jsonrpc
+2018-04-09 22:57:36 [INFO] ip info: 中国广东珠海电信
+2018-04-09 22:58:25 [INFO] check login succeed: uk=204770208 name=t唐唔
+2018-04-09 22:58:25 [INFO] token: 99a6c75490724764fbca8cb19ce2b178
+2018-04-09 22:58:25 [INFO] sign1: b6aeb2c7b7c1e8c85cfa3375c1c21ca6e8e83ad5
+2018-04-09 22:58:25 [INFO] sign2: IFYvRSiP6qEF7ZE5j5aj9naL62n7LcSKOFZ7P8pi5hEdCCJVq17kZw%3D%3D
+2018-04-09 22:58:25 [INFO] sign3: d76e889b6aafd3087ac3bd56f4d4053a
+2018-04-09 22:58:25 [INFO] timestamp: 1523285905
+2018-04-09 22:59:53 [INFO] [/项目备份/ANPower.rar] [12671642] [普通1] [] download complete
+2018-04-09 23:02:55 [INFO] open share link: surl=1gqJYZv_ZAULnBsadYIvhvw, shareid=388840705, uk=1444158459, password=ask9
+2018-04-09 23:06:10 [INFO] [/算法/#dp进阶之路.pdf] [2513371] [普通1] [] download complete
+2018-04-09 23:06:13 [INFO] [/算法/#algs4.jar] [2020032] [普通1] [] download complete
+2018-04-09 23:06:15 [INFO] [/算法/#NOIP实用算法（启蒙教材）.pdf] [275314] [普通1] [] download complete
+2018-04-09 23:06:16 [INFO] [/算法/#acm-book.pdf] [5537434] [普通1] [] download complete
+2018-04-09 23:06:36 [INFO] [/算法/#清北学堂（全）.rar] [39381025] [普通1] [] download complete
+2018-04-09 23:06:38 [INFO] [/算法/#趣学算法资源.zip] [16883797] [普通1] [] download complete
+2018-04-09 23:07:09 [INFO] [/算法/#挑战程序设计竞赛（第2版）完整扫描版.pdf] [91745845] [普通1] [] download complete
+2018-04-09 23:07:11 [INFO] [/算法/#算法竞赛入门经典(第二版)pdf+源码+习题.rar] [43793770] [普通1] [] download complete
+2018-04-09 23:07:12 [INFO] [/算法/ACM模板-清华大学.pdf] [403322] [普通1] [] download complete
+2018-04-09 23:07:13 [INFO] [/算法/ACM算法模板(吉林大学).pdf] [1759949] [普通1] [] download complete
+2018-04-09 23:07:28 [INFO] [/算法/ahac_v2.0.exe] [16443855] [普通1] [] download complete
+2018-04-09 23:07:28 [INFO] [/算法/#刘汝佳算法竞赛入门经典代码.zip] [60113292] [普通1] [] download complete
+2018-04-09 23:07:30 [INFO] [/算法/Algorithms.zip] [9434303] [普通1] [] download complete
+2018-04-09 23:07:32 [INFO] [/算法/DP-Book-master.zip] [542154] [普通1] [] download complete
+2018-04-09 23:07:59 [INFO] [/算法/pack-master.zip] [359269] [普通1] [] download complete
+2018-04-09 23:08:01 [INFO] [/算法/Java数据结构和算法中文第二版.pdf] [26587471] [普通1] [] download complete
+2018-04-09 23:08:19 [INFO] [/算法/RedBlack.pdf] [12529555] [普通1] [] download complete
+2018-04-09 23:08:22 [INFO] [/算法/《算法（第4版）》 阅读计划.pdf] [223556] [普通1] [] download complete
+2018-04-09 23:08:27 [INFO] [/算法/背包九讲完整版.pdf] [482585] [普通1] [] download complete
+2018-04-09 23:09:17 [INFO] [/算法/算法 第4版 高清中文版.pdf] [90038276] [普通1] [] download complete
+2018-04-09 23:09:29 [INFO] [/算法/algs4-data.zip] [394253005] [普通1] [] download complete
+2018-04-09 23:09:57 [INFO] [/算法/算法竞赛入门经典完整版（第一版）.pdf] [40109196] [普通1] [] download complete
+2018-04-09 23:10:00 [INFO] [/算法/算法+第4版-谢路云译完整版.pdf] [190540371] [普通1] [] download complete
+2018-04-09 23:10:13 [INFO] [/算法/算法竞赛入门经典训练指南（文字版）.pdf] [10545016] [普通1] [] download complete
+2018-04-09 23:10:38 [INFO] [/算法/算法竞赛入门经典训练指南.pdf] [169723639] [普通1] [] download complete
+2018-04-09 23:10:40 [INFO] [/算法/浙大ACM模板.doc] [454144] [普通1] [] download complete
+2018-04-09 23:10:52 [INFO] [/算法/turingWeChatGroups-master.zip] [72127115] [普通1] [] download complete
+2018-04-09 23:12:39 [INFO] close main window
+2018-04-09 23:12:40 [INFO] save download list succeeded, use time: 297ms
+2018-04-09 23:12:40 [INFO] exit
